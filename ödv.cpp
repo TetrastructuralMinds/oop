@@ -4,7 +4,6 @@
 
 // Fonksiyon prototipleri
 int hesaplaToplam(const std::vector<int>& dizi1, const std::vector<int>& dizi2);
-int hesaplaCarpim(const std::vector<int>& dizi1, const std::vector<int>& dizi2);
 void ayirTekCift(const std::vector<int>& dizi, std::vector<int>& tekler, std::vector<int>& ciftler);
 void dosyayaYazdir(const std::string& dosyaAdi, int toplam, int carpim, const std::vector<int>& tekler, const std::vector<int>& ciftler, const std::vector<int>& carpimSonuclari);
 std::vector<int> satirlariKiyaslaVeCarp(const std::vector<int>& dizi1, const std::vector<int>& dizi2);
