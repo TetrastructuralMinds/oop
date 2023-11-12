@@ -1,0 +1,7 @@
+Dizilerin Toplami: 153
+Tek Sayilar:
+
+Cift Sayilar:
+4 4 4 4 4 
+Satirların Carpimi:
+16 12 220 264 
